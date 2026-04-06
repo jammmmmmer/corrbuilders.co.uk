@@ -1,0 +1,4 @@
+*.zip
+zineGtAV
+__pycache__/
+.DS_Store
