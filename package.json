@@ -1,0 +1,8 @@
+{
+  "name": "corrbuilders-co-uk",
+  "private": true,
+  "scripts": {
+    "dev": "python3 scripts/serve_site.py",
+    "validate": "python3 scripts/validate_site.py"
+  }
+}
